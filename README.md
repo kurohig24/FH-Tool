@@ -39,6 +39,6 @@ Pertama, update paket termux dan install git serta python.
 pkg update && pkg upgrade -y
 pkg install git python -y
 pip install rich
-git clone [https://github.com/kurohig24/FH-Tool.git](https://github.com/kurohig24/FH-Tool.git)
+git clone https://github.com/kurohig24/FH-Tool.git
 cd FH-Tool
 python fh_tool_final.py
