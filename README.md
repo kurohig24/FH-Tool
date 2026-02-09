@@ -41,4 +41,4 @@ pkg install git python -y
 pip install rich
 git clone https://github.com/kurohig24/FH-Tool.git
 cd FH-Tool
-python fh_tool_final.py
+python wifi_FH.py
